@@ -1,0 +1,115 @@
+header {
+    background-color: #002060;
+    color: #87ceeb;
+}
+
+  
+a{ 
+  font-family: "comic sans ms";
+  font-size: 18px; 
+}
+  
+
+
+
+
+h1{
+     color: #87ceeb;
+     font-family: 'broadway'; font-size: 36px;
+}
+p { font-family: 'comic sans ms'; font-size: 18px; }
+body {
+    background-color: #87ceeb;
+    color: #002060;
+}
+p{
+  margin: 20px 30px 20px 30px;
+  padding: 20px 30px 20px 30px;
+  border-width: 3px;
+  border-style: solid;
+  border-color: #002060
+} 
+section{
+     border:  5px solid #002060;
+     border-radius: 20px 20px 20px 20px;
+     margin: 20px;
+}
+
+footer 
+{ font-family: 'papyrus'; font-size:18px; background-color: #002060;
+color:#87ceeb }
+
+     
+  
+ footer h1 {text-align: center;}
+
+ 
+.col-1 {
+  width:50%;
+  padding: 25px;
+  float: left;}
+
+.col-2
+      {width: 50%;
+        padding:25px;
+        float:left;}
+
+.col-3
+        {width: 50%;
+          padding:25px;
+          float: left;}
+
+.col-4
+      {width: 50%;
+        padding: 25px;
+        float: left;}
+
+.col-5
+      {width: 50%;
+        padding:25px;
+        float: left;}
+
+.col-6
+      {width:40%;
+        padding: 25px;
+        float: left;}
+
+.col-7
+      {width: 50%;
+        padding:25px;
+        float: left;}
+
+footer{ 
+  clear:left;
+}
+
+nav{
+
+  padding-bottom: 10px
+}
+
+ul{
+
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+ul li{
+display: inline-block;
+position: relative;
+}
+
+a{
+  font-size: 1.5em;
+  display: block;
+  text-decoration: none;
+  padding-left:10px;
+  padding-right:40px;
+}
+a:hover{
+  color:aqua;
+  background-color:#002060;
+  cursor: grabbing
+}
+
